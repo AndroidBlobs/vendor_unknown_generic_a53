@@ -1,0 +1,8 @@
+cap_rawdata_limit,,,,,
+0,99999,,,,
+trx_delta_limit,,,,,
+0,9999,,,,
+noise_limit,,,,,
+0,90000,,,,
+open_short_limit,,,,,
+0,100,0,100,0,100
